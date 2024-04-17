@@ -16,7 +16,7 @@ C# is an elegant and type-safe object-oriented language that enables developers 
 
 [Read more here.](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
-```c#
+```csharp
 // Single-line comments start with //
 
 /*
