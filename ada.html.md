@@ -12,11 +12,11 @@ Ada is a strong statically typed imperative, [object-oriented](https://ada-lang.
 
 Ada was originally designed to be an [object-based](https://ada-lang.io/docs/arm/AA-3/AA-3.3) language and to replace 100's of languages in use by the US government. This means that all entities are objects, not in the object-oriented sense. The language became [Object-Oriented](https://ada-lang.io/docs/arm/AA-3/AA-3.9) in 1995, and added [interfaces](https://ada-lang.io/docs/arm/AA-3/AA-3.9#Subclause_3.9.4) derived from Java in 2005. [Contract based](https://ada-lang.io/docs/arm/AA-13/AA-13.1#Subclause_13.1.1) programming was introduced with Ada 2012.
 
-Ada was designed to be easy to read and learn, even for non-programmers, e.g. management within an organisation, therefore programs written in the language tend to be a bit more verbose.
+Ada was designed to be easy to read and learn, even for non-programmers, e.g. management within an organization, therefore programs written in the language tend to be a bit more verbose.
 
 Ada is a modern programming language, and now has a package manager like other modern languages, Alire, see below.
 
-```ada
+```Pascal
 --  Comments are written with a double hyphen and exist until the end of
 --  the line.
 
