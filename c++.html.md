@@ -26,7 +26,7 @@ while offering high-level features such as generics, exceptions, and classes.
 This combination of speed and functionality makes C++
 one of the most widely-used programming languages.
 
-```c++
+```cpp
 //////////////////
 // Comparison to C
 //////////////////
